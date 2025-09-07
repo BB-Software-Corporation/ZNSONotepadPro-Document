@@ -34,11 +34,11 @@
 
 说了那么多，那么肯定有很多人想试一试，我们继续来看如何[创建笔记](https://github.com/BB-Software-Corporation/ZNSONotepadPro-Document#%E5%88%9B%E5%BB%BA%E7%AC%94%E8%AE%B0)。
 
-### 编辑笔记
+# 编辑笔记
 编辑的时候有许多快速的方式来编辑我们的笔记。
 创建[控件]()的快捷方式：
-> 按住右键+鼠标移动：创建一个空白的[TextEdit]()。
-> 按住Shift+按住右键+鼠标移动：创建一个空白的[IVBar]()。
+> 按住右键+鼠标移动：创建一个空白的[TextEdit](https://github.com/BB-Software-Corporation/ZNSONotepadPro-Document/tree/main#%E4%BB%80%E4%B9%88%E6%98%AFtext-edit)。
+> 按住Shift+按住右键+鼠标移动：创建一个空白的[IVBar](https://github.com/BB-Software-Corporation/ZNSONotepadPro-Document/tree/main#%E4%BB%80%E4%B9%88%E6%98%AFivbar)。
 
 ### 控件
 ##### 什么是Text Edit
