@@ -17,7 +17,7 @@
 
 ---
 
-3. 笔记就创建成功了！我们可以开始[编辑]()了！
+3. 笔记就创建成功了！我们可以开始[编辑](https://github.com/BB-Software-Corporation/ZNSONotepadPro-Document/tree/main#%E7%BC%96%E8%BE%91%E7%AC%94%E8%AE%B0)了！
 
 ## 什么是笔记集？
 笔记集是用于提供创建笔记的时候的一种路径选择方式。
