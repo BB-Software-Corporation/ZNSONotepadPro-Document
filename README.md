@@ -38,6 +38,7 @@
 编辑的时候有许多快速的方式来编辑我们的笔记。
 创建[控件]()的快捷方式：
 > 按住右键+鼠标移动：创建一个空白的[TextEdit](https://github.com/BB-Software-Corporation/ZNSONotepadPro-Document/tree/main#%E4%BB%80%E4%B9%88%E6%98%AFtext-edit)。
+> 
 > 按住Shift+按住右键+鼠标移动：创建一个空白的[IVBar](https://github.com/BB-Software-Corporation/ZNSONotepadPro-Document/tree/main#%E4%BB%80%E4%B9%88%E6%98%AFivbar)。
 
 # 控件
